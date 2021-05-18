@@ -1,3 +1,4 @@
+![IMG_9EC4049FC6C2-1](https://user-images.githubusercontent.com/16100672/118647613-d2f92500-b7e1-11eb-9166-cad4aeed91ff.jpeg)
 # UIAdvancedSegmentedControl
 
 <p align="center">
@@ -13,7 +14,6 @@
 ```swift
 .package(url: "https://github.com/stevensyp/UIAdvancedSegmentedControl.git")
 ```
-
 
 ## 🔠 Usage
 ```swift
