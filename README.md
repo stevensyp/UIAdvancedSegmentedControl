@@ -17,14 +17,13 @@
 
 ## 🔠 Usage
 ```swift
-// 1 - Import the framework
-import UIAdvancedSegmentedControl
-
-// 2 - TODO
+// TODO
 ```
 
 ## 🎨 Features
-
+```swift
+// TODO
+```
 
 ## Requirements & License
 > Requirements: Swift __5__ · Xcode __12__ · iOS __14__
